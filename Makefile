@@ -21,4 +21,7 @@ install: dylibbundler
 	cp ./dylibbundler $(DESTDIR)$(PREFIX)/bin/dylibbundler
 	chmod 775 $(DESTDIR)$(PREFIX)/bin/dylibbundler
 
+noop:
+	echo skipping
+
 .PHONY: all clean install
