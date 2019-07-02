@@ -1,7 +1,7 @@
 {
-  "name": "esy-glfw",
-  "version": "3.2.1010",
-  "description": "Esy GLFW build",
+  "name": "esy-macdyllibbundler",
+  "version": "0.4.5",
+  "description": "macdyllibbundler",
   "license": "MIT",
   "esy": {
     "build": [
