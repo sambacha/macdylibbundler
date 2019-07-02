@@ -1,7 +1,7 @@
 {
-  "name": "esy-macdyllibbundler",
+  "name": "esy-macdylibbundler",
   "version": "0.4.5",
-  "description": "macdyllibbundler",
+  "description": "macdylibbundler",
   "license": "MIT",
   "esy": {
     "build": [
